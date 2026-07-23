@@ -8,7 +8,7 @@ import discord
 from discord.ext import commands
 
 # ---------- CONFIG ----------
-TOKEN = os.getenv("DISCORD_TOKEN", "PON_TU_TOKEN_AQUI")
+TOKEN = os.getenv("DISCORD_TOKEN", "MTUyOTk1ODg4ODUxMjgxNTIyNA.GCRBqi.mBWwNpapKtGaPDqh_X9AHA9GvWApTLMYldxG2c")
 
 # Si quieres que salude en un canal específico, pon su nombre aquí.
 # Si lo dejas en None, va a buscar el canal "de bienvenidas" del server
